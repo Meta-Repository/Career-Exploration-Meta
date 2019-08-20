@@ -1,0 +1,64 @@
+X,Y,Author(s),Year,r,n
+Neuroticism,Environmental Exploration,Nauta,2007,-0.08,113
+Neuroticism,Environmental Exploration,Hardin et al.,2006,-0.04,85
+Neuroticism,Environmental Exploration,Hardin et al.,2006,0.07,76
+Neuroticism,Environmental Exploration,Reed,1999,-0.066,186
+Neuroticism,Environmental Exploration,Zikic,2005,-0.1,304
+Neuroticism,Environmental Exploration,Guan et al.,2017,-0.13,222
+Neuroticism,Environmental Exploration,"Hirschi,, Niles, & Akos",2011,0.084,349
+Neuroticism,Environmental Exploration,Hirschi ,2009,-0.107,210
+Extraversion,Environmental Exploration,Nauta,2007,0.14,113
+Extraversion,Environmental Exploration,Reed,1999,0.201,186
+Extraversion,Environmental Exploration,Zikic,2005,0.12,304
+Extraversion,Environmental Exploration,Guan et al.,2017,0.26,222
+Extraversion,Environmental Exploration,Hirschi,2009,0.002,210
+Openness,Environmental Exploration,Nauta,2007,0.14,113
+Openness,Environmental Exploration,Reed,1999,-0.207,186
+Openness,Environmental Exploration,Zikic,2005,0.18,304
+Openness,Environmental Exploration,Guan et al.,2017,0.32,222
+Openness,Environmental Exploration,Hirschi,2009,0.082,210
+Agreeableness,Environmental Exploration,Nauta,2007,0.09,113
+Agreeableness,Environmental Exploration,Reed,1999,0.015,186
+Agreeableness,Environmental Exploration,Zikic,2005,0.03,304
+Agreeableness,Environmental Exploration,Guan et al.,2017,0.08,222
+Agreeableness,Environmental Exploration,Hirschi,2009,-0.096,210
+Conscientiousness,Environmental Exploration,Nauta,2007,0.06,113
+Conscientiousness,Environmental Exploration,Reed,1999,0.372,186
+Conscientiousness,Environmental Exploration,Zikic,2005,0.08,304
+Conscientiousness,Environmental Exploration,Guan et al.,2017,0.18,222
+Conscientiousness,Environmental Exploration,Hirschi,2009,0.135,210
+Locus of Control,Environmental Exploration,"Horst, Klehe, & Heijden",2017,0.316,3413
+Locus of Control,Environmental Exploration,Noe & Steffy,1987,0.14,98
+VDSI: I-E,Environmental Exploration,Blustein & Phillips,1988,-0.09,148
+VDSI: I-E,Environmental Exploration,Bartley & Robitschel,2000,0,162
+VDSI: I-E,Environmental Exploration,Bartley & Robitschel,2000,-0.1,156
+VDSI: T-F,Environmental Exploration,Bartley & Robitschek,2000,-0.29,162
+VDSI: T-F,Environmental Exploration,Bartley & Robitschek,2000,-0.45,156
+VDSI: T-F,Environmental Exploration,Blustein & Phillips,1988,-0.27,148
+Explorational Stress,Environmental Exploration,Bartley & Robitschek,2000,0.28,162
+Explorational Stress,Environmental Exploration,Bartley & Robitschek,2000,0.21,156
+Explorational Stress,Environmental Exploration,Reed,1999,0.27,186
+Explorational Stress,Environmental Exploration,"Stumpf, Colarelli, Hartman",1983,0,241
+Explorational Stress,Environmental Exploration,"Stumpf, Colarelli, Hartman",1983,0.12,185
+Explorational Stress,Environmental Exploration,"Gamboa, Paixao, & de Jesus",2013,0.025,346
+Explorational Stress,Environmental Exploration,Bubany,2011,0.09,228
+Explorational Stress,Environmental Exploration,Bubany,2011,0.26,143
+Decisional Stress,Environmental Exploration,Bartley & robitschek,2000,0.08,162
+Decisional Stress,Environmental Exploration,Bartley & robitschek,2000,-0.07,156
+Decisional Stress,Environmental Exploration,Blustein & Phillips,1988,0.04,148
+Decisional Stress,Environmental Exploration,"Stumpf, Colarelli, Hartman",1983,-0.05,241
+Decisional Stress,Environmental Exploration,"Stumpf, Colarelli, Hartman",1983,0.01,185
+Decisional Stress,Environmental Exploration,"Gamboa, Paixao, & de Jesus",2013,-0.08,346
+Decisional Stress,Environmental Exploration,Bubany,2011,-0.12,228
+Decisional Stress,Environmental Exploration,Bubany,2011,-0.05,143
+CDMSE,Environmental Exploration,Bartley & Robitschek,2000,0.36,162
+CDMSE,Environmental Exploration,Bartley & Robitschek,2000,0.38,156
+CDMSE,Environmental Exploration,Lent et al.,2017,0.43,324
+CDMSE,Environmental Exploration,Cheung & Arnold,2014,0.388,249
+CDMSE,Environmental Exploration,Behrens & Nauta,2013,0.345,80
+CDMSE,Environmental Exploration,Xu & Tracey,2017,0.37,248
+CDMSE,Environmental Exploration,"Owens, Motl, & Krieshok",2016,0.33,82
+CDMSE,Environmental Exploration,Bubany,2011,0.43,228
+CDMSE,Environmental Exploration,Bubany,2011,0.37,143
+CDMSE,Environmental Exploration,Moreault,1992,0.309,304
+CDMSE,Environmental Exploration,Paivandy,2008,0.46,150

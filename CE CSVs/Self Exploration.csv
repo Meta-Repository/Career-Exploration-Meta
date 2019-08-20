@@ -1,0 +1,68 @@
+X,Y,Author(s),Year,r,n
+Neuroticism,Self Exploration,"Reed, Bruch, & Haase",2004,0.08,204
+Neuroticism,Self Exploration,Nauta,2007,-0.09,113
+Neuroticism,Self Exploration,Greenhaus & Sklarew,1981,-0.05,161
+Neuroticism,Self Exploration,Reed,1999,0.112,186
+Neuroticism,Self Exploration,Zikic,2005,0.16,304
+Neuroticism,Self Exploration,Guan et al.,2017,-0.12,222
+Neuroticism,Self Exploration,"Hirschi, Niles, & Akos",2011,0.102,349
+Neuroticism,Self Exploration,Hirschi ,2009,0.019,210
+Extraversion,Self Exploration,"Reed, Bruch, & Haase",2004,0.08,204
+Extraversion,Self Exploration,Nauta,2007,-0.1,113
+Extraversion,Self Exploration,Reed,1999,0.078,186
+Extraversion,Self Exploration,Zikic,2005,0.01,304
+Extraversion,Self Exploration,Guan et al.,2017,0.21,222
+Extraversion,Self Exploration,Hirschi,2009,-0.066,210
+Openness,Self Exploration,"Reed, Bruch, & Haase",2004,0.23,204
+Openness,Self Exploration,Nauta,2007,0.17,113
+Openness,Self Exploration,Reed,1999,0.174,186
+Openness,Self Exploration,Zikic,2005,0.12,304
+Openness,Self Exploration,Guan et al.,2017,0.37,222
+Openness,Self Exploration,Hirschi,2009,0.192,210
+Agreeableness,Self Exploration,"Reed, Bruch, & Haase",2004,-0.01,204
+Agreeableness,Self Exploration,Nauta,2007,0.05,113
+Agreeableness,Self Exploration,Reed,1999,-0.048,186
+Agreeableness,Self Exploration,Zikic,2005,0.16,304
+Agreeableness,Self Exploration,Guan et al.,2017,0.2,222
+Agreeableness,Self Exploration,Hirschi,2009,0.022,210
+Conscientiousness,Self Exploration,"Reed, Bruch, & Haase",2004,0.11,204
+Conscientiousness,Self Exploration,Nauta,2007,0.21,113
+Conscientiousness,Self Exploration,Reed,1999,0.078,186
+Conscientiousness,Self Exploration,Zikic,2005,0.14,304
+Conscientiousness,Self Exploration,Guan et al.,2017,0.25,222
+Conscientiousness,Self Exploration,Hirschi,2009,0.098,210
+Locus of Control,Self Exploration,"Horst, Klehe, & Heijden",2017,0.348,3413
+Locus of Control,Self Exploration,Noe & Steffy,1987,0.09,98
+VDSI: I-E,Self Exploration,Blustein & Phillips,1988,0.01,148
+VDSI: I-E,Self Exploration,Bartley & Robitschel,2000,0.07,162
+VDSI: I-E,Self Exploration,Bartley & Robitschel,2000,-0.11,156
+VDSI: T-F,Self Exploration,Bartley & Robitschek,2000,-0.33,162
+VDSI: T-F,Self Exploration,Bartley & Robitschek,2000,-0.3,156
+VDSI: T-F,Self Exploration,Blustein & Phillips,1988,-0.26,148
+Explorational Stress,Self Exploration,Bartley & Robitschek,2000,0.18,162
+Explorational Stress,Self Exploration,Bartley & Robitschek,2000,0.21,156
+Explorational Stress,Self Exploration,Reed,1999,0.151,186
+Explorational Stress,Self Exploration,Blustein & Phillips,1988,0.22,148
+Explorational Stress,Self Exploration,"Stumpf, Colarelli, Hartman",1983,-0.03,241
+Explorational Stress,Self Exploration,"Stumpf, Colarelli, Hartman",1983,-0.04,185
+Explorational Stress,Self Exploration,"Gamboa, Paixao, & de Jesus",2013,0.21,346
+Explorational Stress,Self Exploration,Bubany,2011,0.17,228
+Explorational Stress,Self Exploration,Bubany,2011,0.06,143
+Decisional Stress,Self Exploration,Bartley & Robitschek,2000,0.1,162
+Decisional Stress,Self Exploration,Bartley & Robitschek,2000,0.05,156
+Decisional Stress,Self Exploration,Blustein & Phillips,1988,0.09,148
+Decisional Stress,Self Exploration,"Stumpf, Colarelli, Hartman",1983,0.01,241
+Decisional Stress,Self Exploration,"Stumpf, Colarelli, Hartman",1983,0.14,185
+Decisional Stress,Self Exploration,"Gamboa, Paixao, & de Jesus",2013,0.115,346
+Decisional Stress,Self Exploration,Bubany,2011,0.01,228
+Decisional Stress,Self Exploration,Bubany,2011,-0.01,143
+CDMSE,Self Exploration,Bartley & Robitschek,2000,0.33,162
+CDMSE,Self Exploration,Bartley & Robitschek,2000,0.23,156
+CDMSE,Self Exploration,Lent et al.,2017,0.39,324
+CDMSE,Self Exploration,Cheung & Arnold,2014,0.405,249
+CDMSE,Self Exploration,Xu & Tracey,2017,0.45,248
+CDMSE,Self Exploration,"Owens, Motl, & Krieshok",2016,0.46,82
+CDMSE,Self Exploration,Bubany,2011,0.35,228
+CDMSE,Self Exploration,Bubany,2011,0.33,143
+CDMSE,Self Exploration,Moreault,1992,0.141,304
+CDMSE,Self Exploration,Paivandy,2008,0.37,150

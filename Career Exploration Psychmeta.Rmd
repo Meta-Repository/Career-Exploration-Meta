@@ -1,0 +1,119 @@
+---
+title: "Career Exploration Psychmeta"
+author: "Samuel Lee"
+date: "June 11, 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(psychmeta)
+library(dplyr)
+```
+
+#General Career Exploration
+```{r}
+
+Gen <- read.csv(file="C:/Users/Leex7833/Desktop/Career Exploration Project/CE CSVs/General Exploration.csv")
+#View(Gen)
+maGen <- ma_r(ma_method = "ic",
+               rxyi = Gen$r, n = Gen$n,
+               construct_x = Gen$X,
+               construct_y = Gen$Y,
+               rxx = Gen$rxx,
+               ryy = Gen$ryy,
+               data = Gen
+               )
+#View(summary(maGen))
+
+maGen <- heterogeneity(maGen)
+out_heterogeneity <- get_heterogeneity(maGen)
+out_heterogeneity$`analysis id: 12`$barebones
+
+GenFunnel <- plot_funnel(ma_obj = maGen)
+out_plots <- get_plots(GenFunnel)
+out_plots$funnel$`analysis id: 12`$barebones
+
+#metabulate(maGen, file = "Meta-analysis table General Exploration2.rtf")
+```
+
+
+#self Exploration
+```{r}
+Self <- read.csv(file="C:/Users/Leex7833/Desktop/Career Exploration Project/CE CSVs/Self Exploration.csv")
+#View(Self)
+maSelf <- ma_r(ma_method = "ic",
+               rxyi = Self$r, n = Self$n,
+               construct_x = Self$X,
+               construct_y = Self$Y,
+               rxx = Self$rxx,
+               ryy = Self$ryy,
+               data = Self
+               )
+summary(maSelf)
+
+maSelf <- heterogeneity(maSelf)
+out_heterogeneity <- get_heterogeneity(maSelf)
+out_heterogeneity$`analysis id: 11`$barebones
+
+SelfFunnel <- plot_funnel(ma_obj = maSelf)
+out_plots <- get_plots(SelfFunnel)
+out_plots$funnel$`analysis id: 11`$barebones
+
+#metabulate(maSelf, file = "Meta-analysis table Self Exploration2.rtf")
+```
+
+
+```{r}
+Env <- read.csv(file="C:/Users/Leex7833/Desktop/Career Exploration Project/CE CSVs/Environmental Exploration.csv")
+View(Env)
+maEnv <- ma_r(ma_method = "ic",
+               rxyi = Env$r, n = Env$n,
+               construct_x = Env$X,
+               construct_y = Env$Y,
+               rxx = Env$rxx,
+               ryy = Env$ryy,
+               data = Env
+               )
+summary(maEnv)
+
+maEnv <- heterogeneity(maEnv)
+out_heterogeneity <- get_heterogeneity(maEnv)
+out_heterogeneity$`analysis id: 11`$barebones
+
+
+EnvFunnel <- plot_funnel(ma_obj = maEnv)
+out_plots <- get_plots(EnvFunnel)
+out_plots$funnel$`analysis id: 11`$barebones
+
+#metabulate(maEnv, file = "Meta-analysis table Environmental Exploration2.rtf")
+```
+
+#Self & Environmental
+```{r}
+SelfEnv <- read.csv(file="C:/Users/Leex7833/Desktop/Career Exploration Project/CE CSVs/Single Variable CSVs/Self Environmental.csv")
+#View(SelfEnv)
+maSelfEnv <- ma_r(ma_method = "ic",
+               rxyi = SelfEnv$r, n = SelfEnv$n,
+               construct_x = SelfEnv$X,
+               construct_y = SelfEnv$Y,
+               rxx = SelfEnv$rxx,
+               ryy = SelfEnv$ryy,
+               data = SelfEnv
+               )
+summary(maSelfEnv)
+
+maSelfEnv <- heterogeneity(maSelfEnv)
+out_heterogeneity <- get_heterogeneity(maSelfEnv)
+out_heterogeneity$`analysis id: 1`$barebones
+
+SelfEnvFunnel <- plot_funnel(ma_obj = maSelfEnv)
+out_plots <- get_plots(SelfEnvFunnel)
+out_plots$funnel$`analysis id: 1`$barebones
+
+#metabulate(maSelfEnv, file = "Meta-analysis table Self Environmental Exploration2.rtf")
+```
+
